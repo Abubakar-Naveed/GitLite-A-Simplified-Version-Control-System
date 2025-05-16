@@ -1,11 +1,3 @@
-/*
-SEction A
-Abubakar 23i-0515 A
-ABBAS RAZZA  23i-0803 A
-ABDULLAh bIN nasir 23i-0733  A
-
-*/
-
 #include<iostream>
 #include<fstream>
 #include <direct.h>
